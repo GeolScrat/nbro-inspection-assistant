@@ -18,7 +18,7 @@ if language == "English":
         st.write("You selected **Building Inspection**.")
         st.write("This form is used for landslide risk assessment before constructing buildings.")
         st.write("Required documents include:")
-        st.markdown("- Applicant and land owner details
+        st.markdown("- Applicant and land owner details") 
 - Land location and usage
 - Building plan and associated structures")
     
